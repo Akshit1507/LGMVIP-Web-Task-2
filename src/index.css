@@ -1,0 +1,17 @@
+.userCardBox {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  margin: 10px 10px 10px 10px;
+  justify-content: center;
+}
+.card {
+  margin: 10px 10px 10px 10px;
+}
+.card img {
+  border-radius: 50%;
+  height: 50%;
+  width: 50%;
+  margin: auto;
+  margin-top: 10px;
+}
